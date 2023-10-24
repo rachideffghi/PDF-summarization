@@ -5,7 +5,7 @@ Creation of an automatic scientific document PDF summarization application using
 
 ## Introduction
 
-Welcome to the Automatic Scientific Document PDF Summarization Application! This project leverages advanced Natural Language Processing (NLP) techniques, including BERT and GPT-3, to automatically summarize scientific documents in PDF format. Our goal is to generate concise and relevant summaries with over 80% precision, making it easier for researchers and professionals to extract key insights from lengthy scientific texts.
+Welcome to the Automatic Scientific Document PDF Summarization Application! This project leverages advanced Natural Language Processing (NLP) techniques, including BERT and GPT-3, to automatically summarize scientific documents in PDF format. Our goal is to generate concise and relevant summaries with over 90% precision, making it easier for researchers and professionals to extract key insights from lengthy scientific texts.
 
 ## Key Features
 
