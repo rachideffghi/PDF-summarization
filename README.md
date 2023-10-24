@@ -30,12 +30,12 @@ Personalization & customization of services’, Applied Computing and Informatic
 
 ![Word Cloud](/wordcloud.png)
 
-[The frequent references to "customer" and "data" in the text suggest a significant emphasis on the analysis of customer data within the research paper. Additionally, the repeated use of terms such as "CRM," "business," "service," and "marketing" indicates that the paper delves into the exploration of how these concepts can be harnessed to enhance overall business performance.]
+The frequent references to "customer" and "data" in the text suggest a significant emphasis on the analysis of customer data within the research paper. Additionally, the repeated use of terms such as "CRM," "business," "service," and "marketing" indicates that the paper delves into the exploration of how these concepts can be harnessed to enhance overall business performance.
 
 ### Summary
 
 ![Summary](/summary.png)
 
-[This is the ultimate summary produced by our application. It encapsulates the core points discussed in the article, maintaining a sequence that mirrors the article's structure, starting from the introduction and concluding with the final points.]
+This is the ultimate summary produced by our application. It encapsulates the core points discussed in the article, maintaining a sequence that mirrors the article's structure, starting from the introduction and concluding with the final points.
 
 
