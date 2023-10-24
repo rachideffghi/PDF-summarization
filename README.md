@@ -21,4 +21,3 @@ Welcome to the Automatic Scientific Document PDF Summarization Application! This
 
 We appreciate your interest in our project, and we are working hard to bring it to a state where it can be used effectively. Please check back for updates, and feel free to [contact us](mailto:rachid.effghi@gmail.com) if you have any questions or inquiries about the project's progress.
 
-...
